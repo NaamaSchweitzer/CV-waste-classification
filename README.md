@@ -1,1 +1,0 @@
-# CV-waste-classification
